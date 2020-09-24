@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mypham"
+    }
+  },
+  "defaultProject": "mypham",
+  "cli": {
+    "analytics": "eed5b71d-f99c-49ff-a1fe-23df226780c5"
+  }
 }
